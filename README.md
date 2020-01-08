@@ -6,7 +6,7 @@ In this project, we analyze disaster data from Figure Eight to build a model for
 
 1. [Installation](#installation)
 2. [File Descriptions](#files)
-3. [Instructions] (#Instructions)
+3. [Instructions](#Instructions)
 3. [Results](#results)
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
