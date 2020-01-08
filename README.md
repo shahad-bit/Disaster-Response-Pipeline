@@ -35,4 +35,4 @@ There is two iPython notebooks available here for preparing ETL pipeline and ML 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credits must be given to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](hhttps://insights.stackoverflow.com/survey).  
+Credits must be given to Figure Eight for the data and Udacity for the project idea.
