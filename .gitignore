@@ -130,3 +130,9 @@ dmypy.json
 
 # VS code files
 .vscode
+
+# model
+*.pkl
+
+# database
+*.db
